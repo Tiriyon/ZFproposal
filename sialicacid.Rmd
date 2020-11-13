@@ -1,0 +1,36 @@
+
+<!-- 
+**Sialic Acid**
+What are Sialic acids?
+Sialic acids are a derivative of neuraminic acid,
+an acidic sugar with a nine carbon backbone. 
+The most common member of this group is N-acetylneuraminic acid
+(Neu5Ac or NANA).
+
+Where are they located?
+Sialic acids are located on the distal side of glycan chains
+in many vertebrate cell surface glycoconjugates
+Kraus2005 ref 1 - Rens-Domiano 1991
+
+What are sialic acids for?
+Regulation of glycoprotein stability
+Kraus2005 ref 1 - Rens-Domiano 1991
+, cruicial in controlling cellular 
+interactions, including cell adhesion, 
+Kraus2005 ref 2 - Vestweber 1999
+modulation of surface recognition
+determinants, 
+Kraus2005 ref 3,4
+and B-cell signaling.
+kraus2005 @ 5
+
+More:
+Sialic acids have been implicated in pathogenic processes
+such as inflammation 
+kraus2005 @ 6,7
+adhesion of viruses or bacteria to target cells
+kraus2005 8-10
+tumorigenesis, and metastasis
+kraus2005 - 11,12
+-->
+                                                            

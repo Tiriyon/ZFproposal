@@ -49,6 +49,7 @@ Keywords: UDP-N-acetylglucosamine-2-epimerase/N-acetylmannosamine; GNE; Subcellu
 
 
 Introduction                                                                  
+
 <!-- 
 **Sialic Acid**
 What are Sialic acids?
@@ -60,25 +61,116 @@ The most common member of this group is N-acetylneuraminic acid
 Where are they located?
 Sialic acids are located on the distal side of glycan chains
 in many vertebrate cell surface glycoconjugates
+Kraus2005 ref 1 - Rens-Domiano 1991
 
 What are sialic acids for?
-Regulation of glycoprotein stability, cruicial in controlling cellular 
-interactions, including cell adhesion, modulation of surgace recognition
-determinants, and B-cell signaling.
+Regulation of glycoprotein stability
+Kraus2005 ref 1 - Rens-Domiano 1991
+, cruicial in controlling cellular 
+interactions, including cell adhesion, 
+Kraus2005 ref 2 - Vestweber 1999
+modulation of surface recognition
+determinants, 
+Kraus2005 ref 3,4
+and B-cell signaling.
+kraus2005 @ 5
+
+More:
+Sialic acids have been implicated in pathogenic processes
+such as inflammation 
+kraus2005 @ 6,7
+adhesion of viruses or bacteria to target cells
+kraus2005 8-10
+tumorigenesis, and metastasis
+kraus2005 - 11,12
 -->
-Sialic acids are located on the distal side of glycan chains               
-in many vertebrate cell surface glycoconjugates and play                      
-important roles in regulating glycoprotein stability [1]. 
-They are crucial in controlling cellular interactions, including cell
-adhesion [2], modulation of surface recognition determi-
-nants [3,4], and B-cell signaling [5]. In addition, sialic acids
-have been implicated in pathogenic processes such as
-inflammation [6,7], adhesion of viruses or bacteria to tar-      
-get cells [8–10], tumorigenesis, and metastasis [11,12].
-                                                             
+                                                            
 Mutations in GNE, the key enzyme of sialic acid biosyn-
 thesis, are implicated in human genetic disorders, such as
 sialuria (OMIM 269921), hereditary inclusion body myo-      
+pathy (HIBM), and Nonaka myopathy (OMIM 603824).                  
+Inactivation of sialic acid biosynthesis by gene targeting        
+causes early embryonic lethality in mice [13].                    
+   N-Acetylneuraminic acid (Neu5Ac) is the most abundant          
+naturally occurring sialic acid and serves as a precursor         
+substrate for the entire class of compounds. In the mammalian     
+system, sialic acid biosynthesis resulting in Neu5Ac and its      
+activated form CMP-Neu5Ac is accomplished by five                 
+consecutive enzymatic steps (for review, see Ref. [14]). The      
+key enzyme of the sialic acid biosynthetic pathway is the         
+bifunctional UDP-N-acetylglucosamine-2-epimerase/N-ace-           
+tylmannosamine kinase (GNE) catalyzing the two initial            
+steps of sialic acid biosynthesis [15], thus determining the      
+extent of cell surface sialylation in human cells [16]. The final 
+step, the activation of Neu5Ac to the sugar nucleotide CMP-       
+Neu5Ac is catalyzed by CMP-Neu5Ac synthetase thereby              
+providing the substrate for Golgi-resident sialyltransferases.    
+Although the sialic acid biosynthetic pathway has been            
+known for more than 30 years [17], the subcellular local-         
+ization of the essential enzymes in mammals remained              
+elusive. In the mammalian pathway, only GNE and CMP-              
+Neu5Ac synthetase have been characterized at the molecular        
+level. CMP-Neu5Ac synthetase has been found almost                
+exclusively in the cell nucleus [18,19] suggesting that           
+nucleocytoplasmic shuttling of substrate intermediates might      
+be involved in sialic acid biosynthesis.                          
+   Nucleocytoplasmic exchange occurs via dedicated multi-         
+protein structures spanning the nuclear envelope, termed          
+dNuclear Pore ComplexesT (NPCs). Two types of transport           
+are mediated by the NPC. Passive diffusion allows the
+exchange of ions and small molecules, including proteins          
+smaller than 40–60 kDa, while the translocation of larger
+proteins or protein complexes is controlled by nuclear            
+localization signals (NLSs) and nuclear export signals            
+(NESs). These motifs are recognized by soluble import             
+and export receptors, which can associate with nucleoporins       
+in the NPC, thus leading to transport of cargo across the         
+nuclear membrane (for review, see Ref. [20]). The most            
+common NES is a short stretch of characteristically spaced        
+hydrophobic amino acids as first described for the human          
+immunodeficiency virus type 1 Rev and PKI proteins                
+[21,22].                                                          
+   The precise subcellular localization of the key enzyme of      
+sialic acid biosynthesis, GNE, has not been investigated yet.     
+In the present study, we show cytoplasmic targeting of GNE        
+to the Golgi complex. Unexpectedly, prominent nuclear             
+localization was detected as well suggesting additional           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -137,7 +229,7 @@ sialic acid biosynthesis, GNE, has not been investigated yet.            phin ro
 In the present study, we show cytoplasmic targeting of GNE               terminal domain (Dys2, amino acids 3669–3685), and
 to the Golgi complex. Unexpectedly, prominent nuclear                    actin binding domain (Dys3, amino acids 321–494) were
 localization was detected as well suggesting additional                  from Novocastra Laboratories (Newcastle upon Tyne, UK).
-functional roles for GNE.                                                The secondary antibodies (Dianova, Hamburg, Germany)
+functional roles for GNE.   ##############                               The secondary antibodies (Dianova, Hamburg, Germany)
                                                                          were used as follows: fluorescein (FITC)-conjugated
                                                                          donkey anti-mouse (1:100), Cy3-conjugated goat anti-
 Materials and methods                                                    rabbit (1/200), and Texas Red-conjugated donkey anti-
@@ -590,7 +682,7 @@ The subnuclear staining pattern of GNE features widespread                      
 nucleoplasmic staining in addition to signal accumulation in                     [2] G.M. Edelman, K.L. Crossin, Cell adhesion molecules: implications
 a few large round shaped subnuclear domains. Colocaliza-                             for a molecular histology, Annu. Rev. Biochem. 60 (1991) 155 – 190.
                                                                                  [3] A. Varki, Sialic acids as ligands in recognition phenomena, FASEB J.
-tion experiments with established nuclear proteins might                             11 (1997) 248 – 255.
+tion experiments with established nuclear proteins might                             11 (1997) 248 – 255.                                        
 help to identify GNE interacting partners thereby pointing to                    [4] S. Kelm, R. Schauer, Sialic acids in molecular and cellular
 yet unknown roles of the enzyme in the nuclear metabolism.                           interactions, Int. Rev. Cytol. 175 (1997) 137 – 240.
 378                                         S. Krause et al. / Experimental Cell Research 304 (2005) 365–379

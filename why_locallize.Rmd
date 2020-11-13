@@ -1,0 +1,39 @@
+The biosynthetic pathway of sialic acid is known for more than 30
+years.
+Kraus2005 ref 17.
+
+Although it is known for more than 30 years, subcellular
+localization of the essential enzymes in mammals remained
+elusive.
+Kraus2005.
+
+GNE and CMP-Neu5Ac synthetase have been characterized at the
+molecular level in the mammalian pathway.
+Kraus2005
+CMP-Neu5Ac synthetase has been found amost exclusively in the
+cell nucleus.
+Kraus2005, ref 18,19
+
+CMP-Neu5Ac synthetase in the cell nucleus suggests that
+nucleocytoplasmic shuttling of substrate intermediates might be
+involved in sialic acid biosynthesis.
+Kraus2005.
+
+These motifs are recognized by soluble import and export
+receptors, which can associate with nucleoprorings in the NPC,
+thus leading to transport of cargo across the nuclear membrane.
+Kraus2005 ref 20 - review.
+
+Most common NES is a short stretch of characteristically spaced
+hydrophobic amino acids as first described for the human
+immunodeficiency virus type 1 Rev and PKI proteins.
+Kraus2005, ref 21,22.
+
+The precise cubcellular localization of GNE has not been
+investigated yet.
+Kraus2005.
+
+Kraus show cytoplasmic targeting of GNE to the Golgi complex with
+prominent nuclear localization which suggests additional
+functional roles for GNE.
+Kraus2005.

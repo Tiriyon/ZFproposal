@@ -34,3 +34,31 @@ tumorigenesis, and metastasis
 kraus2005 - 11,12
 -->
                                                             
+Experiments using inactivation of sialic acid biosynthesis by gene targeting
+causes early embryonic lethality in mice.
+Kraus2005 ref 13.
+
+N-Acetylneuraminic acid (Neu5Ac) is the most abundant naturally occuring sialic
+acid and.
+Kraus2005
+It serves as a precursor substrate for the entire class of compounds.
+Kraus2005
+
+In mamals, biosynthesis of sialic acid results in Neu5Ac and its activated form
+CMP-Neu5Ac is given by five consecutive enzymatic steps.
+Kraus2005 ref 14 - for review see this ref.
+Key enzyme of the sialic acid biosynthetic pathway is the
+bifunctional UDP-N-acetylglucosamine-2-epimerase/N-ace-
+tylmannosamine kinase (GNE).
+
+GNE catalyzes the two initial steps of sialic acid biosynthesis.
+Kraus2005 ref 15.
+
+In continuum to above, And so GNE determine the extent of cell
+surface sialylation in hooman cells.
+Kraus2005 ref 16
+The final step in sialic acid biosynthesis is the activation of
+Neu5Ac to the sugar neclotide CMP-Neu5Ac and is catalyzed by
+CMP-Neu5Ac synthetase, therby providing the substrate for
+Golgi-resistant sialyltransferases.
+Kraus2005.

@@ -1,0 +1,11 @@
+Nucleocytoplasmic exchange occurs via dedicated multi-protein
+structures spanning the nuclear envelope, termed 'Nuclear Pore
+Complexes'  (NPCs). 
+Kraus2005
+
+Two types of transport are mediated by the NPC. Passive diffusion
+allows the exchange of ions and small molecules, including
+proteins smaller than 40-60 kDa, while the translocation of
+larger proteing or protein complexes is controlled by nuclear
+localization signals (NLSs) and nuclear export signals (NESs).
+Kraus2005.

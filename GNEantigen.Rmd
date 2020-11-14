@@ -1,0 +1,41 @@
+
+<!-- Kraus2005
+
+To verify the localization of endogenous GNE observed by
+immunofluorescence, we analyzed the distribution of a
+recombinantly expressed N-terminally (FLAG) 3 -tagged version of
+GNE. 
+
+-- Localization of GNE (endogenous) was done via analysis of
+distribution of recombinant N-terminally FLAG 3 tagged version of
+GNE. 
+
+At about 50% confluency, HeLa cells were transfected with an
+amphotropic retrovirus containing GNE cDNA (coding exons
+2\u201312) under the control of a CMV promoter. 
+
+-- GNE cDNA /w CMV promoter into HeLa cells.
+
+The cells were stained simultaneously with an anti-FLAG antibody
+and the GNE antibody. 
+
+-- Stained with anti-FLAG antibody and GNE antibody.
+
+Confocal laser scan- ning microscopy revealed colocalization in
+the Golgi and the nucleus (Fig. 5).
+
+-- Colocalization in Golgi and nucleus.
+
+Additionally, (FLAG) 3 -tagged GNE translation products were
+visualized in several small clusters in the cytoplasm. 
+
+-- FLAG 3 tagged GNE seen in several small clusters in cytoplasm
+[should I worry about this in my research?]
+
+Unlike endogenous GNE, the FLAG-tagged construct marks the Golgi
+complex more strongly than the nucleus.
+
+-- FLAG tagged marks golgi stronger than endogenous GNE. [Could
+be since FLAG tag associates better than GNE antiserum].
+
+-->

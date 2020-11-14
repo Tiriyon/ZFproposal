@@ -39,3 +39,135 @@ complex more strongly than the nucleus.
 be since FLAG tag associates better than GNE antiserum].
 
 -->
+
+<!-- Kraus2005
+
+Unexpectedly, a large fraction of GNE is targeted to the
+nucleoplasm and a few intensely stained subnuclear domains of
+HeLa cells as observed by confocal microscopy (Figs. 3A, E, H,
+K). 
+
+-- Large fraction of GNE is targeted to the nucleoplasm and a few
+intensely stained subnuclear domains of HeLa cells.
+
+Upon BFA treatment disrupting the Golgi complex, the nuclear
+distribution of GNE remains largely unchanged for 1 h (Fig. 4A),
+when compared to untreated HeLa cells (Fig. 3). 
+
+-- BFA Golgi disruption does not affect nuclear distribution.
+
+During recovery from BFA, intensely staining nuclear domains
+become prominent after 2 h (Figs. 4D, G).  
+
+-- BFA recovery leads to intensifying nuclear staining.
+
+Upon nocodazole treatment and recovery, the nuclear GNE signal is
+heterogenous in the cell population.  Nuclear GNE is nearly
+missing or weaker in about half of the cells and more prominent
+in the other half lacking any larger nuclear clusters (Figs. 4J,
+M).  
+
+-- Nocadazole disruption and recovery leaves GNE nuclear signal
+heterogenous, while nuclear GNE is nearly missing or weaker in
+about half of the cells and more prominent in the other half
+lacking any larger nuclear clusters. [What?]
+
+In general, the GNE-related nuclear staining pattern in HeLa
+cells was variable (Figs. 3A, E, H, K) and changed rapidly upon
+recovery from BFA treatment and during exposure to nocodazole
+(Figs. 4D, G, J, M). 
+
+-- Generaly, GNE-related nuclear staining pattern in HeLa varies
+and change rapidly upon recovery from BFA and nocodazole
+exposure.
+
+These findings prompted us to analyze HeLa cells in culture over
+time. 
+
+
+Cells were seeded at low density and maintained for 6 days with
+one medium exchange on day 4. 
+
+
+For confocal microscopy analysis, the cells were labeled for GNE
+and golgin-97. 
+
+The nuclear GNE distribution changes over time including
+increased cluster formation and a decrease in diffuse
+nucleoplasmic staining until day 4. 
+
+-- Nuclear GNE distribution changes over time include increased
+cluster formation, decrease in dffuse nucleoplasmic staining
+until day 4.
+
+The day following medium exchange (day 5), GNE appears diffusely
+throughout the nucleo- plasm concentrating in numerous smaller
+granules. 
+
+-- After medium exchange, GNE diffuse throughout the nucleoplasm
+concentrating in smaller granules.
+
+On day 6, GNE seems again redistributed into 1\u20133 large,
+intensely labeled nuclear domains (data not shown).  
+
+-- Day 6, GNE redistribute into 1-3 large intensely laveled
+nuclear domains.
+
+The relative nucleocytoplasmic distribution of GNE was determined
+by cell fractionation of HeLa cells 1 and 2 days after seeding. 
+
+Purity of cytoplasmic and nuclear fractions was confirmed by
+Western Blot analysis and subsequent immunodetection of golgin-97
+as cytoplasmic marker and C responsive element-binding protein
+(CBP) as nuclear marker protein (data not shown). 
+
+Cytoplasmic and nuclear fractions were normalized for total
+protein and separated on a Western blot followed by
+immunodetection with the GNE antibody (Fig. 1D). 
+
+
+Densitometry analysis of the specific immunoblot signals reveals
+nuclear versus cytoplasmic GNE ratios ranging from 1:1.7 on day 1
+and 1:2.3 on day 2.
+
+-- nuclear to cytoplasmic GNE ratios from 1:1.7 & 1:2.3.
+
+-->
+
+
+<!-- Kraus2005
+
+To investigate the subcellular targeting of GNE in cells of
+myogenic origin, TE671 cells, a rhabdomyosarcoma line and fetal
+human myoblasts (FHM) were double labeled for GNE and a Golgi
+marker and analyzed by confocal laser scanning microscopy (Figs.
+6A\u2013F). 
+
+-- GNE & golgi markers
+
+Colocalization occurs in an intensely stained juxtanuclear
+compartment typical of the Golgi complex. 
+
+-- juxtanuclear staining - typical to golgi. 
+
+Moreover, most of the nuclei are labeled by the anti-GNE antibody
+(Figs.  6A, D) and display a similar staining pattern like HeLa
+cells.
+
+-- Similar staining pattern like HeLa
+
+
+After maturation of FHM into differentiated, multinuclear
+myotubes, the Golgi appa- ratus appears as a vesicular
+juxtanuclear structure (Figs. 
+
+
+6G\u2013 I) that is less compact when compared to myoblasts
+(Figs.  6D\u2013F). GNE is also present in a widespread nuclear
+staining pattern in most of the myotubes (Figs. 6G, I).  
+
+-- GNE presnet in widespread nuclear staining pattern in most
+myotubes. [mature FHM]
+
+-->
+

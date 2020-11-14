@@ -1,65 +1,58 @@
 
 <!-- Kraus2005
 
-Unexpectedly, a large fraction of GNE is targeted to the
-nucleoplasm and a few intensely stained subnuclear domains of
-HeLa cells as observed by confocal microscopy (Figs. 3A, E, H,
-K). 
+To investigate the dynamic association of GNE with the Golgi
+compartment and to elucidate GNE targeting changes during
+myogenesis, primary human myoblasts and myo- tubes were exposed
+to BFA and nocodazole. 
 
-Upon BFA treatment disrupting the Golgi complex, the nuclear
-distribution of GNE remains largely unchanged for 1 h (Fig. 4A),
-when compared to untreated HeLa cells (Fig. 3). 
+-- dynamic association of GNE with Golgi compartment &
+elucidation of GNE targeting change during myogenesis.
 
-During recovery from BFA, intensely staining nuclear domains
-become prominent after 2 h (Figs. 4D, G).  
+Double labeling of GNE and the Golgi marker protein golgin-97
+reveals colocalization in myoblasts throughout the cyto- plasm
+subsequent to BFA-induced collapse of Golgi stacks appearing more
+vesiculated (Figs. 7A\u2013C, compare to Fig.  6). 
 
-Upon nocodazole treatment and recovery, the nuclear GNE signal is
-heterogenous in the cell population.  Nuclear GNE is nearly
-missing or weaker in about half of the cells and more prominent
-in the other half lacking any larger nuclear clusters (Figs. 4J,
-M).  
+-- Double laveling GNE & golgi golgin-97 shows colocalization in
+myoblasts throughout the cytoplasm subsequent to BFA collapse.
 
-In general, the GNE-related nuclear staining pattern in HeLa
-cells was variable (Figs. 3A, E, H, K) and changed rapidly upon
-recovery from BFA treatment and during exposure to nocodazole
-(Figs. 4D, G, J, M). 
+The nuclear localization of GNE persists in a widespread
+nucleoplasmic pattern with some clustering in many small and a
+few larger nuclear domains. 
 
-These findings prompted us to analyze HeLa cells in culture over
-time. 
+-- Nuclear localization persists in nucleoplasmic pattern with
+clustering in small and few larger nuclear domains.
 
-Cells were seeded at low density and maintained for 6 days with
-one medium exchange on day 4. 
+Also, nocodazole treatment has a dramatic effect on disturbing
+the Golgi
 
-For confocal microscopy analysis, the cells were labeled for GNE
-and golgin-97. 
+-- dramatic nocodazole effect on golgi distribution
 
-The nuclear GNE distribution changes over time including
-increased cluster formation and a decrease in diffuse
-nucleoplasmic staining until day 4. 
+morphology in myoblasts with extensive scattering of GNE along
+with Golgi-related vesicles as visualized by colocal- ization
+with golgin-97 (Figs. 7D\u2013F). 
 
-The day following medium exchange (day 5), GNE appears diffusely
-throughout the nucleo- plasm concentrating in numerous smaller
-granules. 
+-- extensive scattering og GNE along with golgi related vesicles 
 
-On day 6, GNE seems again redistributed into 1\u20133 large,
-intensely labeled nuclear domains (data not shown).  
+During recovery from nocodazole exposure, reformation of the
+Golgi complexes is in progress after 30 min as followed by the
+marker protein golgin-97. 
 
-The relative nucleocytoplasmic distribution of GNE was determined
-by cell fractionation of HeLa cells 1 and 2 days after seeding. 
+As expected, GNE colocalizes to the reforming Golgi-related
+compartment (Figs. 7G\u2013I). 
 
-Purity of cytoplasmic and nuclear fractions was confirmed by
-Western Blot analysis and subsequent immunodetection of golgin-97
-as cytoplasmic marker and C responsive element-binding protein
-(CBP) as nuclear marker protein (data not shown). 
+BFA treatment of differentiated, multinuclear myotubes yields
+diffuse and vesiculated distribution of GNE along with golgin-97. 
 
-Cytoplasmic and nuclear fractions were normalized for total
-protein and separated on a Western blot followed by
-immunodetection with the GNE antibody (Fig. 1D). 
+By contrast, upon exposure to nocodazole, the Golgi morphol- ogy
+in myotubes remains largely unchanged (Figs. 7M\u2013O) when
+compared to the untreated cells (Figs. 6G\u2013I). 
 
-Densitometry analysis of the specific immunoblot signals reveals
-nuclear versus cytoplasmic GNE ratios ranging from 1:1.7 on day 1
-and 1:2.3 on day 2.
+GNE remains localized to the Golgi compartment surrounding the
+myonuclei or concentrating on opposite poles. 
 
+Note that the Golgi architecture in myotubes is highly variable.
 -->
 
 

@@ -129,4 +129,13 @@ ETIOLOGY OF GNE MYOPATHY
   GNE FUNCTION
 
         - GNE gene encodes for UDP-N-Acetylglucosamine
-          2-epimerase/N-acetylmannoseamine kinase 
+          2-epimerase/N-acetylmannoseamine kinase.
+        - A bifunctional and rate limiting enzyme in
+          the biosynthesis of sialic acid [28, 29].
+        - Regulator of cell surgace sialylation [30].
+        - N-terminal epimerase, containing the
+          allosteric site for CMP-sialic acid
+          feedback inhibition.
+        - C-terminal kinase.
+        - Mutation in one domain affect the enzyme
+          activity of the other domain [32-35].

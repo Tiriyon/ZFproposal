@@ -1,0 +1,98 @@
+
+## Introduction
+
+Overall disease desctiption
+
+  First paragraph: start broadly the research area and then
+  narrow down to my own particular focus. This is to help me
+  position my research topic within the broader field, making the
+  work accessible to broader audience, not just to specialists in
+  my field.
+
+  Disease                    Explain the disease itself
+
+  Gene sequening and         What causes it, on the 
+  mutational analysis        genetic level
+
+  mRNA analysis              Expression research conducted so 
+                             far
+
+  Protein function Protein   What is know about the protein
+  isolation                  its function and sialic acid
+
+  Cell localization of GNE   The 2005 article - Kraus
+  protein
+  
+
+  My field - Localizing GNE  Proxy to Frankenbodies.
+  protein in zebrafish.
+
+  State the aims and importance
+  Papers rejected for "not showing the importance of the topic"
+  or "lacking clear motivation" usually neglect this point. I
+  should state what I want to achieve and why my reader should be
+  interested in finding out whether I achieve it. The basic
+  structure can be as simple as "We aim to do X, which is
+  important because it will lead to Y". 
+
+  How GNE protein target the Golgi and what mechanism retains its
+  stay in the golgi remains elusive. Golgi localization may
+  involve disparate regions of a protein rather than a single
+  discrete signal [42]. For golgi resident glycosy; transferases
+  twp basic models have been proposed. 1. N-terminal signal
+  sequence adjacent to the transmembrane domain mediates Golgi
+  tergeting. 2. Subset of golgi resident proteins are recruited
+  to the organelle by a process known as kin recognition that
+  involves protein-protein interactio in the stem region of the
+  protein [43]. GNE targeting might depend on protein-protein
+  interaction with other golgi-resident proteins according to the
+  kin recognition model mediating precise localization within th
+  e golgi stacks. ALternatively, GNE might be anchored to golgi
+  membranes by covalently attached fatty acid chains like
+  myristoyll or farnesys/ Finally, we cannot exclude the
+  possibility of different GNE splice forms [37] mediating
+  specific targeting to the cytoplasm or the nucleus. Mutational
+  analysis will be needed to clarify this issue.
+
+ Our results suggest a dynamic localization with GNE moving in a
+ temporal sequence between several subcellular compartments
+ before adopting a steady state. ... In vivo labeling of GNE by
+ GFP fusion may allow to measure dynamic parameters directly and
+ to dissect functional domains essential for precise subcellular
+ targeting.
+
+  ... How GNE targeting and function are dynamically linked may
+  help to develop a model of how sialic acid biosynthesis is
+  regulated and promote our understanding of the pathogenesis of
+  huma GNE-related disorders.
+
+
+  I was trailing off from the first paragraph on Krauses
+  discussion.
+  @Krause2005 reports tissue distribution and subcellular
+  compartmentalization of mammalian GNE. In their research they
+  demonstrated tissue-specific regulation of GNE protein
+  expression by Western blotting cerebrum, cerebellum, liver,
+  skeletal muscle, thymus, ant testis in mouse (contains the
+  highest amounts of GNE).
+
+  @Krause2005 says that so far these studies were hampered by
+  lack of an appropriate antiserum to GNE.
+
+
+  GNE myopathy (OMIM 605820) is a rare genetic muscle disease
+  characterized by progressive skeletal muscle atrophy due to
+  mutation in GNE, the gene encoding the bifunctional enzyme due
+  to mutations in GNE, the gene encoding the bifunctional enzyme
+  UDP-N-acetylglucosamine (GlcNAc) 2-epimerase/
+  N-acetylmannosamine (ManNAc) kinase (EC:3.2.1.183, EC:2.7.1.60)
+  (Fig. 1). 
+
+    The above serves as
+    reference to all
+    relevant information
+    about GNE myopathy
+    with pointers to omim
+    and enzyme ID.
+
+  

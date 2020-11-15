@@ -1,0 +1,11 @@
+## GNE Myopathy: Etiology, Diagnosis, and Therapeutic
+Challenges
+
+GNE myopathy (OMIM 605820) is a rare genetic muscle
+disease characterized by progressive skeletal muscle
+atrophy due to mutations in GNE, the gene encoding the
+bifunctional enzyme UDP-N-acetylglucosamine (GlcNAc)
+2-epimerase/ N-acetylmannosamine (ManNAc) kinase
+(EC:3.2.1.183, EC:2.7.1.60) (Fig. 1). 
+
+

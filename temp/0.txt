@@ -1,11 +1,132 @@
 ## GNE Myopathy: Etiology, Diagnosis, and Therapeutic
 Challenges
 
-GNE myopathy (OMIM 605820) is a rare genetic muscle
-disease characterized by progressive skeletal muscle
-atrophy due to mutations in GNE, the gene encoding the
-bifunctional enzyme UDP-N-acetylglucosamine (GlcNAc)
-2-epimerase/ N-acetylmannosamine (ManNAc) kinase
-(EC:3.2.1.183, EC:2.7.1.60) (Fig. 1). 
+ABSTRACT 
 
+GNE myopathy, previously known as hereditary inclusion
+body myopathy (HIBM), or Nonaka myopathy, is a rare
+autosomal recessive muscle disease characterized by
+progressive skeletal muscle atrophy. It has an
+estimated prevalence of 1 to 9:1,000,000. GNE myopathy
+is caused by mutations in the GNE gene which encodes
+the rate-limiting enzyme of sialic acid biosynthesis.
+The pathophysiology of the disease is not entirely
+understood, but hyposialylation of muscle glycans is
+thought to play an essential role. The typical
+presentation is bilateral foot drop caused by weakness
+of the anterior tibialis muscles with onset in early
+adulthood. The disease slowly progresses over the next
+decades to involve skeletal muscles throughout the
+body, with relative sparing of the quadriceps until
+late stages of the disease. The diagnosis of GNE
+myopathy should be considered in young adults
+presenting with bilateral foot drop. Histopathologic
+findings on muscle biopsies include fiber size
+variation, atrophic fibers, lack of inflammation, and
+the characteristic "rimmed" vacuoles on modified
+Gomori trichome staining. The diagnosis is confirmed
+by the presence of pathogenic (mostly missense)
+mutations in both alleles of the GNE gene. Although
+there is no approved therapy for this disease,
+preclinical and clinical studies of several potential
+therapies are underway, including substrate
+replacement and gene therapy-based strategies.
+However, developing therapies for GNE myopathy is
+complicated by several factors, including the rare
+incidence of disease, limited preclinical models, lack
+of reliable biomarkers, and slow disease progression. 
 
+Type:   GNE Myopathy Review 
+
+Notes: 
+
+INTRODUCTION 
+
+[TAG:DISEASE]
+
+        - Rare genetic muscle disease characterized by
+          progressive skeletal muscle atrophy due to
+          mutations in *GNE*, the gene encoding the
+          bifunctional enzym UDP-N-Acetylglucosamine
+          (GlcNAc) 2-epimerase/N-acetylmannoseamine
+          (ManNAc) kinase (EC:3.2.1.183, EC:2.7.1.60).
+        - Nonaka:
+        - Distal Myopathy with rimmed vacuoles DMRV.
+        - Early adulthood onset.
+        - Predominantly affecting the anterior
+          tibialis muscles.
+        - Mild serum creatine kinase (CK) elevation.
+        - Muscle histopathology characterized by fiber
+          atrophy, rimmed vacuoles, lack of
+          inflamation, and no evidence of regeneration
+          [2, 3].
+        - Argov & Yarom:
+        - Autosomal recessive inheritance of several
+          Iranian Jewish families with a rimmed
+          vacuole myopathy that spared quadriceps [4].
+        - Hereditary inclusion body myopathy - HIBM.
+        - Other numencluture:
+        - GNE myopathy [8].
+        - Initially identified in Japanese and Middle
+          Eastern populations, now reported worldwide.
+        - Prevelace:
+        - estimated at ~1 to 9/1000000 (Orphanet;
+          http://www.orpha.net/).  
+
+CLINICAL MANIFESTATION OF GNE MYOPATHY
+
+        - Symptoms taking place between 20-40 years
+          old patients [9,10].
+        - Manifestations of anterior tibialis
+          weakness, such as tripping, gait
+          disturbance, inability to lift toes, or foot
+          drop [9-11].
+        - Result of progressive skeletal muscle
+          atrophy and weakness with the subsequent
+          impairment of function and quality of life.
+        - Specific muscle groups and functions
+          impacted depend on the muscles involved a
+          different stages of the disease.
+        - Progressing slowly, typically takes decades
+          for parients to progress from early to late
+                  stages of the disease [What are the
+                  stages?].
+        - The disease progresses from distal muscles
+          of the lower extremities, followed by thigh
+          muscles, with relative sparing of the
+          quadriceps [4].
+        - Gait becomes progressively affected,
+          resulting in steppage gait, increased risk
+          of falls, and decreased balance.
+        - Patients may become wheelchair bound ~10-20
+          years after onset of symptoms [9,11-13]. 
+        - The upper extremities are affected 5-10
+          years after onset [9,11], and do not
+          necessarily follow the distal to proximal
+          progression seen in the lower extremities.
+        - In advanced stages of the disease, neck
+          muscles can also be affected [10].
+        - Ultimately, disease progression may result
+          in complete loss of skeletal muscle function
+          and dependence on caregivers [11, 12]. 
+        - The disease does not affect swallowing or
+          facial muscles, and it does not impair
+          cognition.
+        - Factors that affect progression are not well
+          understood, genetic modifiers and
+          environmental factors are thought to play a
+          role [10,13,15-17].
+        - Respiratory muscle involvement has been
+          described at late stages of the disease
+          [19].
+        - While others decline this proposition [20].
+        - Cardiac involvement has beed reported in
+          mouse model of GNE [LOOK AT THIS CITATION]
+          [21] but is not usually seen in patients.
+
+ETIOLOGY OF GNE MYOPATHY
+  
+  GNE FUNCTION
+
+        - GNE gene encodes for UDP-N-Acetylglucosamine
+          2-epimerase/N-acetylmannoseamine kinase 

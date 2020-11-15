@@ -1,0 +1,19 @@
+Layout as follow:
+
+Title, be it introduction, methods etc
+
+Point I want to make
+
+  The point with ref 
+  Another point with ref
+
+New point
+
+  point ref
+  point ref
+
+New point
+  And so on.
+
+references will allready be inside as bib ref.
+

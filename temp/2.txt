@@ -35,6 +35,8 @@ Overall disease desctiption
   structure can be as simple as "We aim to do X, which is
   important because it will lead to Y". 
 
+@Krause2005
+
   How GNE protein target the Golgi and what mechanism retains its
   stay in the golgi remains elusive. Golgi localization may
   involve disparate regions of a protein rather than a single

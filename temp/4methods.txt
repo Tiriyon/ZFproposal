@@ -1,0 +1,24 @@
+## Methods
+
+What do I do with my research? Essentially, I inject GFP or mCh
+frankenbody probe as mRNA to zebrafish 1-cell stage. Alongside
+that I inject recombinant GNE mRNA with HA Tag at the N-terminal
+of the protein. After which I want to examine the injected larvae
+with confocal microscopy.
+
+Before I achieve that, I need to clone human GNE and design a
+recombinant GNE. I need to examine the following parameters:
+
+- HA tag position
+- HA tag repeats
+- HA tag conformation
+
+Before that I need to enable IV for my FB
+
+After that I need to examine FB & DNM plasmid microinjection.
+
+And FB & DNM mRNA microinjection.
+
+Which FB is better for visualization.
+
+
